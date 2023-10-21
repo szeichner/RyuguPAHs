@@ -1,0 +1,69 @@
+﻿,Source,Sample,,Ratio
+napthalene/pyrene,this study,"Ryugu, A106",1,0.050655476
+napthalene/pyrene,this study,"Ryugu, C107",1,0.050956419
+napthalene/pyrene,"Aponte et al., 2023","Ryugu, A106 - Aponte",1,0.388888889
+napthalene/pyrene,"Aponte et al., 2023","Ryugu, C107 - Aponte",1,0.427860697
+napthalene/pyrene,"Wing and Bada, 1991",Murchison,1,1
+napthalene/pyrene,"Naraoka et al., 2000",Murchison,1,0.5
+napthalene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,1,0.339393939
+napthalene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,1,1.306122449
+napthalene/pyrene,"Naraoka et al., 1998",Yamato 791198,1,2.529411765
+napthalene/pyrene,"Plows et al., 2003",Allende,1,5
+napthalene/pyrene,"Aponte et al., 2023",Orgueil,1,0.75972193
+napthalene/pyrene,"Lecsable et al., 2022",Kolang,1,0.187628866
+napthalene/pyrene,"Lecsable et al., 2022",Mukundpura,1,0.630550622
+napthalene/pyrene,"Lecsable et al., 2022",Aguas Zarcas,1,0.347826087
+,,,,
+phenanthrene/pyrene,this study,"Ryugu, A106",2,0.060342662
+phenanthrene/pyrene,this study,"Ryugu, C107",2,0.036343845
+phenanthrene/pyrene,Krishnamurthy et al 1992,Murchison,2,0.5
+phenanthrene/pyrene,"Wing and Bada, 1991",Murchison,2,1.2
+phenanthrene/pyrene,"Gilmour and Pillinger, 1994",Murchison,2,0.5
+phenanthrene/pyrene,"Gilmour and Pillinger, 1994",Yamato 791198,2,1.428571429
+phenanthrene/pyrene,"Gilmour and Pillinger, 1994",Yamato 75662,2,1.333333333
+phenanthrene/pyrene,"Basile et al., 1984",Murchison,2,0.011764706
+phenanthrene/pyrene,"Naraoka, 2000",Murchison,2,1
+phenanthrene/pyrene,"Huang et al., 2015",Murchison,2,1.140495868
+phenanthrene/pyrene,"Huang et al., 2015",LON 94101,2,0.996287129
+phenanthrene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,2,0.775757576
+phenanthrene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,2,0.979591837
+phenanthrene/pyrene,"Martins et al., 2015",Paris,2,0.5380382
+phenanthrene/pyrene,"Naraoka et al., 1988",Yamato 791198,2,1.5
+phenanthrene/pyrene,"Lecsable et al., 2022",Kolang,2,0.486597938
+phenanthrene/pyrene,"Lecsable et al., 2022",Mukundpura,2,0.694493783
+phenanthrene/pyrene,"Lecsable et al., 2022",Aguas Zarcas,2,0.570888469
+,,,,
+anthracene/pyrene,this study,"Ryugu, A106",3,0.028212325
+anthracene/pyrene,this study,"Ryugu, C107",3,0.031201147
+anthracene/pyrene,"Basile et al., 1984",Murchison,3,0.85
+anthracene/pyrene,"Naraoka, 2000",Murchison,3,0.6
+anthracene/pyrene,"Huang et al., 2015",Murchison,3,0.234014789
+anthracene/pyrene,"Huang et al., 2015",LON 94101,3,0.205445545
+anthracene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,3,0.015151515
+anthracene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,3,0.020408163
+anthracene/pyrene,"Martins et al., 2015",Paris,3,0.053091615
+anthracene/pyrene,"Naraoka et al., 1988",Yamato 791198,3,1.147058824
+anthracene/pyrene,"Lecsable et al., 2022",Kolang,3,0.037113402
+anthracene/pyrene,"Lecsable et al., 2022",Mukundpura,3,0.051509769
+anthracene/pyrene,"Lecsable et al., 2022",Aguas Zarcas,3,0.054820416
+,,,,
+fluoranthene/pyrene,this study,"Ryugu, A106",4,0.214667185
+fluoranthene/pyrene,this study,"Ryugu, C107",4,0.267650969
+fluoranthene/pyrene,"Aponte et al., 2023","Ryugu, A106 - Aponte",4,0.666666667
+fluoranthene/pyrene,"Aponte et al., 2023","Ryugu, C107 - Aponte",4,0.741293532
+fluoranthene/pyrene,"Krishnamurthy et al, 1992",Murchison,4,1
+fluoranthene/pyrene,"Gilmour and Pillinger, 1994",Murchison,4,1
+fluoranthene/pyrene,"Gilmour and Pillinger, 1994",Yamato 791198,4,1.142857143
+fluoranthene/pyrene,"Gilmour and Pillinger, 1994",Yamato 75662,4,1
+fluoranthene/pyrene,"Basile et al., 1984",Murchison,4,1.176470588
+fluoranthene/pyrene,"Naraoka, 2000",Murchison,4,1
+fluoranthene/pyrene,"Huang et al., 2015",Murchison,4,1.251413658
+fluoranthene/pyrene,"Huang et al., 2015",LON 94101,4,1.019183168
+fluoranthene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,4,1.121212121
+fluoranthene/pyrene,"Pering and Ponnamperuma, 1971",Murchison,4,1
+fluoranthene/pyrene,"Martins et al., 2015",Paris,4,1.118484947
+fluoranthene/pyrene,"Naraoka et  al., 1988",Yamato 791198,4,1.088235294
+fluoranthene/pyrene,"Aponte et al., 2023",Orgueil,4,1.868794326
+fluoranthene/pyrene,"Lecsable et al., 2022",Kolang,4,0.849484536
+fluoranthene/pyrene,"Lecsable et al., 2022",Mukundpura,4,0.987566607
+fluoranthene/pyrene,"Lecsable et al., 2022",Aguas Zarcas,4,1.041587902

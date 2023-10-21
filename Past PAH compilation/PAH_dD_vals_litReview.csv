@@ -1,0 +1,32 @@
+﻿Source,PAH,Meteorite,Type,dD,1s,d13C,d13C_SE,D_2x13C
+"Naraoka et al., 2002",Fluoranthene,A881458,CM2,-219,,,,
+"Naraoka et al., 2002",Pyrene,A881458,CM2,-168,,,,
+"Lecasble et al., 2022",Fluoranthene,Aguas Zarcas,CM2,-231.4,17.8,,,
+"Lecasble et al., 2022",Pyrene,Aguas Zarcas,CM2,-187.5,8.6,,,
+"Graham et al., 2022",Napthalene,ALH 83100,CM2,7,18,,,
+"Graham et al., 2022",Phenanthrene,ALH 83100,CM2,-8,50,,,
+"Graham et al., 2022",Anthracene,ALH 83100,CM2,169,49,,,
+"Graham et al., 2022",Pyrene,ALH 83100,CM2,10,99,,,
+"Graham et al., 2022",Fluoranthene,ALH 83100,CM2,-23,67,,,
+"Lecasble et al., 2022",Fluoranthene,Kolang,CM1/2,-263,18,,,
+"Lecasble et al., 2022",Pyrene,Kolang,CM1/2,-219.5,9.5,,,
+Huang et al 2015,Phenanthrene,LON 94101,CM2,456, ,,,
+Huang et al 2015,Pyrene,LON 94101,CM2,600,,,,
+"Graham et al., 2022",Napthalene,LON 94101,CM2,46,6,,,
+"Graham et al., 2022",Phenanthrene,LON 94101,CM2,-289,57,,,
+"Graham et al., 2022",Anthracene,LON 94101,CM2,-192,4,,,
+"Graham et al., 2022",Pyrene,LON 94101,CM2,-238,134,,,
+"Graham et al., 2022",Fluoranthene,LON 94101,CM2,-450,32,,,
+"Lecasble et al., 2022",Fluoranthene,Mukundpura,CM2,-250.1,9.1,,,
+"Lecasble et al., 2022",Pyrene,Mukundpura,CM2,-153.1,10.3,,,
+Huang et al 2015,Phenanthrene,Murchison,CM2,59,7,,,
+"Naraoka et al., 2002",Fluoranthene,Murchison,CM2,-560,,,,
+"Naraoka et al., 2002",Pyrene,Murchison,CM2,-421,,,,
+"Graham et al., 2022",Napthalene,Murchison,CM2,180,70,,,
+"Graham et al., 2022",Phenanthrene,Murchison,CM2,-170,8,,,
+"Graham et al., 2022",Pyrene,Murchison,CM2,-233,7,,,
+This study,Napthalene,Ryugu - C107,CI,-7.2,36,-20.35224,4.90457,35.54982375
+This study,Phenanthrene,Ryugu - C107,CI,-458.9,31,-12.64445,4.19102,-4.934329499
+This study,Anthracene,Ryugu - C107,CI,-581.3,41.2,-16.71307,4.51401,2.926909352
+This study,Fluoranthene,Ryugu - C107,CI,-137,18.9,-17.10603,2.54168,8.87755758
+This study,Pyrene,Ryugu - C107,CI,-68,15.4,-23.63303,2.11498,11.19306775

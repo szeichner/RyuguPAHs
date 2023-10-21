@@ -1,0 +1,49 @@
+﻿Source,PAH,Meteorite,Type,d13C (PDB),1s
+"Naraoka et al., 2000",Fluoranthene,A-881458,CM2,-8.3,0.5
+"Naraoka et al., 2000",Napthalene,A-881458,CM2,-26.2,1.2
+"Naraoka et al., 2000",Phenanthrene,A-881458,CM2,-12.9,0.3
+"Naraoka et al., 2000",Pyrene,A-881458,CM2,-15.8,0.8
+"Lecasble et al., 2022",Napthalene,Aguas Zarcas,CM2,0.5,1.6
+"Lecasble et al., 2022",Phenanthrene,Aguas Zarcas,CM2,-11,1
+"Lecasble et al., 2022",Fluoranthene,Aguas Zarcas,CM2,-4.9,0.8
+"Lecasble et al., 2022",Pyrene,Aguas Zarcas,CM2,-14.8,0.6
+Sephton and Gilmour 2000,Phenanthrene,Cold Bokkeveld,CM2,-27,1.3
+"Lecasble et al., 2022",Napthalene,Kolang,CM1/2,-0.7,0.6
+"Lecasble et al., 2022",Phenanthrene,Kolang,CM1/2,-10.5,0.5
+"Lecasble et al., 2022",Fluoranthene,Kolang,CM1/2,-4.8,0.3
+"Lecasble et al., 2022",Pyrene,Kolang,CM1/2,-14.7,0.2
+"Huang et al., 2015",Anthracene,LON 94101,CM2,-1,0.6
+"Huang et al., 2015",Fluoranthene,LON 94101,CM2,-7,0.3
+"Huang et al., 2015",Phenanthrene,LON 94101,CM2,-6,0.2
+"Huang et al., 2015",Pyrene,LON 94101,CM2,-16,0.3
+"Lecasble et al., 2022",Napthalene,Mukundpura,CM2,2.3,0.6
+"Lecasble et al., 2022",Phenanthrene,Mukundpura,CM2,-8.6,0.2
+"Lecasble et al., 2022",Fluoranthene,Mukundpura,CM2,-5.2,0.4
+"Lecasble et al., 2022",Pyrene,Mukundpura,CM2,-14,0.5
+"Huang et al., 2015",Anthracene,Murchison,CM2,-9,0.3
+"Gilmour and Pillinger, 1994",Fluoranthene,Murchison,CM2,-5.9,1.1
+"Sephton et al., 1998",Fluoranthene,Murchison,CM2,-5.9,1.1
+"Huang et al., 2015",Fluoranthene,Murchison,CM2,-9,0.5
+"Naraoka et al., 2002",Fluoranthene,Murchison,CM2,-7.5,
+"Sephton et al., 1998",Napthalene,Murchison,CM2,-12.6,2.3
+"Gilmour and Pillinger, 1994",Phenanthrene,Murchison,CM2,-7.5,1.2
+"Sephton et al., 1998",Phenanthrene,Murchison,CM2,-7.5,1.2
+"Huang et al., 2015",Phenanthrene,Murchison,CM2,-10,0.4
+"Gilmour and Pillinger, 1994",Pyrene,Murchison,CM2,-13.1,1.3
+"Sephton et al., 1998",Pyrene,Murchison,CM2,-13.1,1.3
+"Huang et al., 2015",Pyrene,Murchison,CM2,-15,1.5
+"Naraoka et al., 2002",Pyrene,Murchison,CM2,-15.6,
+Sephton and Gilmour 2000,Fluoranthene,Orgueil,CI1,-19,
+Sephton and Gilmour 2000,Phenanthrene,Orgueil,CI1,-23,
+Sephton and Gilmour 2000,Pyrene,Orgueil,CI1,-17,
+This study,Napthalene,Ryugu - A106,CI,-27.5,24.6
+This study,Phenanthrene,Ryugu - A106,CI,-15.6,6.2
+This study,Anthracene,Ryugu - A106,CI,-10.2,8.5
+This study,Fluoranthene,Ryugu - A106,CI,-26.6,9.4
+This study,Pyrene,Ryugu - A106,CI,-32.6,2
+This study,Napthalene,Ryugu - C107,CI,-20.3,4.9
+This study,Phenanthrene,Ryugu - C107,CI,-12.6,4.2
+This study,Anthracene,Ryugu - C107,CI,-16.7,4.5
+This study,Fluoranthene,Ryugu - C107,CI,-17.1,2.5
+This study,Pyrene,Ryugu - C107,CI,-23.6,2.1
+"Pizzarello et al., 2001",Phenanthrene,Tagish Lake,CI2,-25,

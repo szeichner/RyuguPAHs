@@ -1,0 +1,65 @@
+﻿Source,Meteorite,Compounds,Abundance (ppm),Log abundance ppb
+"Huang et al., 2015",Murchison,Phenanthrene,46.88136,1.671000202
+"Huang et al., 2015",Murchison,Anthracene,9.61944,0.98314979
+"Huang et al., 2015",Murchison,Fluoranthene,51.44076,1.711307376
+"Huang et al., 2015",Murchison,Pyrene,41.10612,1.613906486
+"Huang et al., 2015",LON 94101,Phenanthrene,28.7868,1.45919339
+"Huang et al., 2015",LON 94101,Anthracene,5.93616,0.773505598
+"Huang et al., 2015",LON 94101,Fluoranthene,29.44836,1.469061114
+"Huang et al., 2015",LON 94101,Pyrene,28.89408,1.460808871
+"Pering and Ponnamperuma, 1971",Murchison,Napthalene,1.12,0.049218023
+"Pering and Ponnamperuma, 1971",Murchison,Phenanthrene,2.56,0.408239965
+"Pering and Ponnamperuma, 1971",Murchison,Anthracene,0.05,-1.301029996
+"Pering and Ponnamperuma, 1971",Murchison,Fluoranthene,3.7,0.568201724
+"Pering and Ponnamperuma, 1971",Murchison,Pyrene,3.3,0.51851394
+"Pering and Ponnamperuma, 1971",Murchison,Napthalene,6.4,0.806179974
+"Pering and Ponnamperuma, 1971",Murchison,Phenanthrene,4.8,0.681241237
+"Pering and Ponnamperuma, 1971",Murchison,Anthracene,0.1,-1
+"Pering and Ponnamperuma, 1971",Murchison,Fluoranthene,4.9,0.69019608
+"Pering and Ponnamperuma, 1971",Murchison,Pyrene,4.9,0.69019608
+"Martins et al., 2015",Paris,Phenanthrene,1.662,0.220631019
+"Martins et al., 2015",Paris,Anthracene,0.164,-0.785156152
+"Martins et al., 2015",Paris,Fluoranthene,3.455,0.538448052
+"Martins et al., 2015",Paris,Pyrene,3.089,0.489817908
+"Naraoka et  al., 1988",Y-79119,Napthalene,0.86,-0.065501549
+"Naraoka et  al., 1988",Y-79119,Phenanthrene,0.51,-0.292429824
+"Naraoka et  al., 1988",Y-79119,Anthracene,0.39,-0.408935393
+"Naraoka et  al., 1988",Y-79119,Fluoranthene,0.37,-0.431798276
+"Naraoka et  al., 1988",Y-79119,Pyrene,0.34,-0.468521083
+"Aponte et al., in prep",Ryugu - A106 - Aponte,Napthalene,1.62288,0.210286408
+"Aponte et al., in prep",Ryugu - A106 - Aponte,Phenanthrene + anthracene,2.75352,0.439888235
+"Aponte et al., in prep",Ryugu - A106 - Aponte,Fluoranthene,4.3632,0.639805121
+"Aponte et al., in prep",Ryugu - A106 - Aponte,Pyrene,6.5448,0.81589638
+"Aponte et al., in prep",Ryugu - C107 - Aponte,Napthalene,1.10768,0.044414314
+"Aponte et al., in prep",Ryugu - C107 - Aponte,Phenanthrene + anthracene,2.21712,0.3457892
+"Aponte et al., in prep",Ryugu - C107 - Aponte,Fluoranthene,3.0098,0.478537638
+"Aponte et al., in prep",Ryugu - C107 - Aponte,Pyrene,4.0602,0.608547427
+"Aponte et al., in prep",Orgueil,Napthalene,4.32768,0.63625514
+"Aponte et al., in prep",Orgueil,Phenanthrene + anthracene,46.25556,1.665163943
+"Aponte et al., in prep",Orgueil,Fluoranthene,10.6454,1.027161985
+"Aponte et al., in prep",Orgueil,Pyrene,5.6964,0.755600478
+This study,Ryugu - A106 ,Napthalene,0.110777035,-0.955550263
+This study,Ryugu - A106 ,Phenanthrene,0.13196167,-0.879552196
+This study,Ryugu - A106,Anthracene,0.06169674,-1.20973778
+This study,Ryugu - A106,Fluoranthene,0.469449627,-0.328411002
+This study,Ryugu - A106,Pyrene,2.186871859,0.339823336
+This study,Ryugu - C107,Napthalene,0.057575758,-1.239760339
+This study,Ryugu - C107,Phenanthrene,0.041064982,-1.386528364
+This study,Ryugu - C107,Anthracene,0.035254237,-1.452788677
+This study,Ryugu - C107,Fluoranthene,0.302419355,-0.519390417
+This study,Ryugu - C107,Pyrene,1.129901961,0.053040762
+"Lecasble et al., 2022",Kolang,Napthalene,0.91,-0.040958608
+"Lecasble et al., 2022",Mukundpura,Napthalene,3.55,0.550228353
+"Lecasble et al., 2022",Aguas Zarcas,Napthalene,1.84,0.264817823
+"Lecasble et al., 2022",Kolang,Phenanthrene,2.36,0.372912003
+"Lecasble et al., 2022",Mukundpura,Phenanthrene,3.91,0.592176757
+"Lecasble et al., 2022",Aguas Zarcas,Phenanthrene,3.02,0.480006943
+"Lecasble et al., 2022",Kolang,Anthracene,0.18,-0.744727495
+"Lecasble et al., 2022",Mukundpura,Anthracene,0.29,-0.537602002
+"Lecasble et al., 2022",Aguas Zarcas,Anthracene,0.29,-0.537602002
+"Lecasble et al., 2022",Kolang,Fluoranthene,4.12,0.614897216
+"Lecasble et al., 2022",Mukundpura,Fluoranthene,5.56,0.745074792
+"Lecasble et al., 2022",Aguas Zarcas,Fluoranthene,5.51,0.741151599
+"Lecasble et al., 2022",Kolang,Pyrene,4.85,0.685741739
+"Lecasble et al., 2022",Mukundpura,Pyrene,5.63,0.750508395
+"Lecasble et al., 2022",Aguas Zarcas,Pyrene,5.29,0.723455672
