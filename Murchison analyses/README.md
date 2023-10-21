@@ -1,1 +1,5 @@
-Folder for raw and processed data from Murchison paper, originally published for Zeichner et al.,2022, GCA
+Folder for raw and processed data from Murchison paper, originally published for Zeichner et al.,2022, in GCA.
+
+.txt files are RAW files that were processed with FTSTATISTIC or ISOX (propriety software managed by Thermo Fisher). Processed data can then be analyzed using the orbitrap data processing code: caltechorbi/OrbitrapDataProcessing: orbicodeV1.0.3. CaltechDATA (2021). https://doi.org/10.22002/D1.2170.![image](https://github.com/szeichner/RyuguPAHs/assets/25493173/e8a20822-7f3a-49ff-ab80-794c816e863a)
+
+Reanalyzed_Murchison_For_HB2.xlsx file contains processed data from all the .txt files and a demonstration of D2x13C values were computed.
