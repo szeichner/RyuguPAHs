@@ -1,0 +1,1 @@
+This folder contains csv files with compiled literature data for absolute and relative abundances, as well as d13C and dD values. File names reflect what the contents are, and were used to generate Figures S2 and S3
